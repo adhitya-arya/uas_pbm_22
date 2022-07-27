@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Firestore</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!--  Konfigurasi nama navigasi -->
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_daftarmatkul">Daftar Matkul</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_tambahdata">Tambah Data</string>
+
+    <string-array name="array_hari">
+        <item>Pilih</item>
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sabtu</item>
+        <item>Minggu</item>
+    </string-array>
+
+    <string-array name="array_kelas">
+        <item>Pilih</item>
+        <item>A01</item>
+        <item>A02</item>
+        <item>A03</item>
+        <item>B01</item>
+        <item>B02</item>
+        <item>B03</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039679687703",
+    "project_id": "firestore-matkul",
+    "storage_bucket": "firestore-matkul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039679687703:android:63ca4f714b5c35e13aa052",
+        "android_client_info": {
+          "package_name": "com.example.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039679687703-7sug5c76e559fir8qi20t0ssnlabmngl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKdGZy-A66ty9qhlSke_OZtvQAxUADfqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039679687703-7sug5c76e559fir8qi20t0ssnlabmngl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
